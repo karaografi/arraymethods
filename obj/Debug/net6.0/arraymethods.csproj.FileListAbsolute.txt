@@ -1,0 +1,15 @@
+C:\Users\Manu\Documents\C#101Patika\arraymethods\bin\Debug\net6.0\arraymethods.exe
+C:\Users\Manu\Documents\C#101Patika\arraymethods\bin\Debug\net6.0\arraymethods.deps.json
+C:\Users\Manu\Documents\C#101Patika\arraymethods\bin\Debug\net6.0\arraymethods.runtimeconfig.json
+C:\Users\Manu\Documents\C#101Patika\arraymethods\bin\Debug\net6.0\arraymethods.dll
+C:\Users\Manu\Documents\C#101Patika\arraymethods\bin\Debug\net6.0\arraymethods.pdb
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.csproj.AssemblyReference.cache
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.AssemblyInfoInputs.cache
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.AssemblyInfo.cs
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.dll
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\refint\arraymethods.dll
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.pdb
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\arraymethods.genruntimeconfig.cache
+C:\Users\Manu\Documents\C#101Patika\arraymethods\obj\Debug\net6.0\ref\arraymethods.dll
